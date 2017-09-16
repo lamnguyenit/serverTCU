@@ -1,0 +1,16 @@
+2017-08-11 23:47:27 1460 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-08-11 23:47:27 1460 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-08-11 23:47:27 1460 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2017-08-11 23:47:27 1460 [Note] InnoDB: Memory barrier is not used
+2017-08-11 23:47:27 1460 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-08-11 23:47:27 1460 [Note] InnoDB: Using generic crc32 instructions
+2017-08-11 23:47:27 1460 [Note] InnoDB: Initializing buffer pool, size = 256.0M
+2017-08-11 23:47:28 1460 [Note] InnoDB: Completed initialization of buffer pool
+2017-08-11 23:47:28 1460 [ERROR] InnoDB: .\ibdata1 can't be opened in read-write mode
+2017-08-11 23:47:28 1460 [ERROR] InnoDB: The system tablespace must be writable!
+2017-08-11 23:47:28 1460 [ERROR] Plugin 'InnoDB' init function returned error.
+2017-08-11 23:47:28 1460 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2017-08-11 23:47:28 1460 [Note] Plugin 'FEEDBACK' is disabled.
+2017-08-11 23:47:28 1460 [ERROR] Unknown/unsupported storage engine: innodb
+2017-08-11 23:47:28 1460 [ERROR] Aborting
+

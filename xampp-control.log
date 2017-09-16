@@ -1,0 +1,1223 @@
+11:25:16  [main] 	Initializing Control Panel
+11:25:16  [main] 	Windows Version: Windows 8.1 Pro  64-bit
+11:25:16  [main] 	XAMPP Version: 7.0.9
+11:25:16  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:25:16  [main] 	You are not running with administrator rights! This will work for
+11:25:16  [main] 	most application stuff but whenever you do something with services
+11:25:16  [main] 	there will be a security dialogue or things will break! So think 
+11:25:16  [main] 	about running this application with administrator rights!
+11:25:16  [main] 	XAMPP Installation Directory: "d:\server\"
+11:25:16  [main] 	Checking for prerequisites
+11:25:37  [main] 	All prerequisites found
+11:25:37  [main] 	Initializing Modules
+11:25:37  [main] 	The FileZilla module is disabled
+11:25:37  [main] 	The Mercury module is disabled
+11:25:37  [Tomcat] 	Problem detected: Tomcat Not Found!
+11:25:37  [Tomcat] 	Disabling Tomcat buttons
+11:25:37  [Tomcat] 	Run this program from your XAMPP root directory!
+11:25:37  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+11:25:37  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+11:25:37  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+11:25:37  [main] 	Starting Check-Timer
+11:25:37  [main] 	Control Panel Ready
+11:25:39  [Apache] 	Attempting to start Apache app...
+11:25:41  [Apache] 	Status change detected: running
+11:25:46  [mysql] 	Attempting to start MySQL app...
+11:25:47  [mysql] 	Status change detected: running
+11:32:55  [Apache] 	Attempting to stop Apache (PID: 6368)
+11:32:55  [Apache] 	Attempting to stop Apache (PID: 2240)
+11:32:55  [Apache] 	Status change detected: stopped
+11:32:56  [Apache] 	Attempting to start Apache app...
+11:32:57  [Apache] 	Status change detected: running
+14:29:39  [Apache] 	Attempting to stop Apache (PID: 2160)
+14:29:39  [Apache] 	Attempting to stop Apache (PID: 768)
+14:29:39  [Apache] 	Status change detected: stopped
+14:29:40  [mysql] 	Attempting to stop MySQL app...
+14:29:47  [mysql] 	Status change detected: stopped
+14:29:49  [main] 	Deinitializing Modules
+14:29:49  [main] 	Deinitializing Control Panel
+
+15:28:56  [main] 	Initializing Control Panel
+15:28:56  [main] 	Windows Version: Windows 8.1 Pro  64-bit
+15:28:56  [main] 	XAMPP Version: 7.0.9
+15:28:56  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+15:28:56  [main] 	You are not running with administrator rights! This will work for
+15:28:56  [main] 	most application stuff but whenever you do something with services
+15:28:56  [main] 	there will be a security dialogue or things will break! So think 
+15:28:56  [main] 	about running this application with administrator rights!
+15:28:56  [main] 	XAMPP Installation Directory: "d:\server\"
+15:28:56  [main] 	Checking for prerequisites
+15:29:00  [main] 	All prerequisites found
+15:29:00  [main] 	Initializing Modules
+15:29:00  [main] 	The FileZilla module is disabled
+15:29:00  [main] 	The Mercury module is disabled
+15:29:00  [Tomcat] 	Problem detected: Tomcat Not Found!
+15:29:00  [Tomcat] 	Disabling Tomcat buttons
+15:29:00  [Tomcat] 	Run this program from your XAMPP root directory!
+15:29:00  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+15:29:00  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+15:29:00  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+15:29:00  [main] 	Starting Check-Timer
+15:29:00  [main] 	Control Panel Ready
+15:29:02  [Apache] 	Attempting to start Apache app...
+15:29:05  [Apache] 	Status change detected: running
+15:29:12  [mysql] 	Attempting to start MySQL app...
+15:29:13  [mysql] 	Status change detected: running
+15:41:04  [main] 	Deinitializing Modules
+15:41:04  [main] 	Deinitializing Control Panel
+
+16:31:28  [main] 	Initializing Control Panel
+16:31:28  [main] 	Windows Version: Windows 8.1 Pro  64-bit
+16:31:28  [main] 	XAMPP Version: 7.0.9
+16:31:28  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+16:31:28  [main] 	You are not running with administrator rights! This will work for
+16:31:28  [main] 	most application stuff but whenever you do something with services
+16:31:28  [main] 	there will be a security dialogue or things will break! So think 
+16:31:28  [main] 	about running this application with administrator rights!
+16:31:28  [main] 	XAMPP Installation Directory: "d:\server\"
+16:31:28  [main] 	Checking for prerequisites
+16:31:39  [main] 	All prerequisites found
+16:31:39  [main] 	Initializing Modules
+16:31:39  [main] 	The FileZilla module is disabled
+16:31:39  [main] 	The Mercury module is disabled
+16:31:39  [Tomcat] 	Problem detected: Tomcat Not Found!
+16:31:39  [Tomcat] 	Disabling Tomcat buttons
+16:31:39  [Tomcat] 	Run this program from your XAMPP root directory!
+16:31:39  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+16:31:39  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+16:31:39  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+16:31:39  [main] 	Starting Check-Timer
+16:31:39  [main] 	Control Panel Ready
+16:31:42  [Apache] 	Attempting to start Apache app...
+16:31:44  [Apache] 	Status change detected: running
+16:31:56  [mysql] 	Attempting to start MySQL app...
+16:31:58  [mysql] 	Status change detected: running
+16:49:52  [main] 	Deinitializing Modules
+16:49:52  [main] 	Deinitializing Control Panel
+
+20:43:20  [main] 	Initializing Control Panel
+20:43:20  [main] 	Windows Version: Windows 8.1 Pro  64-bit
+20:43:20  [main] 	XAMPP Version: 7.0.9
+20:43:20  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+20:43:20  [main] 	You are not running with administrator rights! This will work for
+20:43:20  [main] 	most application stuff but whenever you do something with services
+20:43:20  [main] 	there will be a security dialogue or things will break! So think 
+20:43:20  [main] 	about running this application with administrator rights!
+20:43:20  [main] 	XAMPP Installation Directory: "d:\server\"
+20:43:20  [main] 	Checking for prerequisites
+20:43:20  [main] 	All prerequisites found
+20:43:20  [main] 	Initializing Modules
+20:43:20  [main] 	The FileZilla module is disabled
+20:43:20  [main] 	The Mercury module is disabled
+20:43:20  [Tomcat] 	Problem detected: Tomcat Not Found!
+20:43:20  [Tomcat] 	Disabling Tomcat buttons
+20:43:20  [Tomcat] 	Run this program from your XAMPP root directory!
+20:43:20  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+20:43:20  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+20:43:20  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+20:43:20  [main] 	Starting Check-Timer
+20:43:20  [main] 	Control Panel Ready
+20:43:23  [Apache] 	Attempting to start Apache app...
+20:43:24  [Apache] 	Status change detected: running
+20:43:32  [mysql] 	Attempting to start MySQL app...
+20:43:33  [mysql] 	Status change detected: running
+23:30:36  [Apache] 	Attempting to stop Apache (PID: 6892)
+23:30:36  [Apache] 	Attempting to stop Apache (PID: 2032)
+23:30:36  [Apache] 	Status change detected: stopped
+23:30:36  [mysql] 	Attempting to stop MySQL app...
+23:30:37  [mysql] 	Attempting to stop MySQL app...
+23:30:40  [mysql] 	Status change detected: stopped
+23:33:32  [Apache] 	Attempting to start Apache app...
+23:33:33  [Apache] 	Status change detected: running
+23:33:35  [Apache] 	Attempting to stop Apache (PID: 6572)
+23:33:35  [Apache] 	Attempting to stop Apache (PID: 7200)
+23:33:35  [Apache] 	Status change detected: stopped
+23:33:59  [Apache] 	Attempting to start Apache app...
+23:34:00  [Apache] 	Status change detected: running
+23:34:08  [Apache] 	Attempting to stop Apache (PID: 6832)
+23:34:08  [Apache] 	Attempting to stop Apache (PID: 8120)
+23:34:08  [Apache] 	Status change detected: stopped
+23:34:11  [main] 	Executing "services.msc"
+23:38:14  [main] 	Deinitializing Modules
+23:38:14  [main] 	Deinitializing Control Panel
+
+21:56:23  [main] 	Initializing Control Panel
+21:56:23  [main] 	Windows Version: Windows 8.1 Pro  64-bit
+21:56:23  [main] 	XAMPP Version: 7.0.9
+21:56:23  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+21:56:23  [main] 	You are not running with administrator rights! This will work for
+21:56:23  [main] 	most application stuff but whenever you do something with services
+21:56:23  [main] 	there will be a security dialogue or things will break! So think 
+21:56:23  [main] 	about running this application with administrator rights!
+21:56:23  [main] 	XAMPP Installation Directory: "d:\server\"
+21:56:23  [main] 	Checking for prerequisites
+21:56:27  [main] 	All prerequisites found
+21:56:27  [main] 	Initializing Modules
+21:56:27  [main] 	The FileZilla module is disabled
+21:56:27  [main] 	The Mercury module is disabled
+21:56:27  [Tomcat] 	Problem detected: Tomcat Not Found!
+21:56:27  [Tomcat] 	Disabling Tomcat buttons
+21:56:27  [Tomcat] 	Run this program from your XAMPP root directory!
+21:56:27  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+21:56:27  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+21:56:27  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+21:56:27  [main] 	Enabling autostart for module "Apache"
+21:56:27  [main] 	Enabling autostart for module "MySQL"
+21:56:27  [main] 	Starting Check-Timer
+21:56:27  [main] 	Control Panel Ready
+21:56:27  [Apache] 	Autostart active: starting...
+21:56:27  [Apache] 	Attempting to start Apache app...
+21:56:28  [mysql] 	Autostart active: starting...
+21:56:28  [mysql] 	Attempting to start MySQL app...
+21:56:31  [Apache] 	Status change detected: running
+21:56:31  [mysql] 	Status change detected: running
+22:45:04  [main] 	Deinitializing Modules
+22:45:04  [main] 	Deinitializing Control Panel
+
+15:30:04  [main] 	Initializing Control Panel
+15:30:04  [main] 	Windows Version: Windows 8.1 Pro  64-bit
+15:30:04  [main] 	XAMPP Version: 7.0.9
+15:30:04  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+15:30:04  [main] 	You are not running with administrator rights! This will work for
+15:30:04  [main] 	most application stuff but whenever you do something with services
+15:30:04  [main] 	there will be a security dialogue or things will break! So think 
+15:30:04  [main] 	about running this application with administrator rights!
+15:30:04  [main] 	XAMPP Installation Directory: "d:\server\"
+15:30:04  [main] 	Checking for prerequisites
+15:30:07  [main] 	All prerequisites found
+15:30:07  [main] 	Initializing Modules
+15:30:07  [main] 	The FileZilla module is disabled
+15:30:07  [main] 	The Mercury module is disabled
+15:30:07  [Tomcat] 	Problem detected: Tomcat Not Found!
+15:30:07  [Tomcat] 	Disabling Tomcat buttons
+15:30:07  [Tomcat] 	Run this program from your XAMPP root directory!
+15:30:07  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+15:30:07  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+15:30:07  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+15:30:07  [main] 	Enabling autostart for module "Apache"
+15:30:07  [main] 	Enabling autostart for module "MySQL"
+15:30:07  [main] 	Starting Check-Timer
+15:30:07  [main] 	Control Panel Ready
+15:30:07  [Apache] 	Autostart active: starting...
+15:30:07  [Apache] 	Attempting to start Apache app...
+15:30:07  [mysql] 	Autostart active: starting...
+15:30:07  [mysql] 	Attempting to start MySQL app...
+15:30:09  [mysql] 	Status change detected: running
+15:30:10  [Apache] 	Status change detected: running
+16:12:05  [main] 	Deinitializing Modules
+16:12:05  [main] 	Deinitializing Control Panel
+
+7:05:40  [main] 	Initializing Control Panel
+7:05:40  [main] 	Windows Version: Windows 8.1 Pro  64-bit
+7:05:40  [main] 	XAMPP Version: 7.0.9
+7:05:40  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+7:05:40  [main] 	You are not running with administrator rights! This will work for
+7:05:40  [main] 	most application stuff but whenever you do something with services
+7:05:40  [main] 	there will be a security dialogue or things will break! So think 
+7:05:40  [main] 	about running this application with administrator rights!
+7:05:40  [main] 	XAMPP Installation Directory: "d:\server\"
+7:05:40  [main] 	Checking for prerequisites
+7:05:44  [main] 	All prerequisites found
+7:05:44  [main] 	Initializing Modules
+7:05:44  [main] 	The FileZilla module is disabled
+7:05:44  [main] 	The Mercury module is disabled
+7:05:44  [Tomcat] 	Problem detected: Tomcat Not Found!
+7:05:44  [Tomcat] 	Disabling Tomcat buttons
+7:05:44  [Tomcat] 	Run this program from your XAMPP root directory!
+7:05:44  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+7:05:44  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+7:05:44  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+7:05:44  [main] 	Enabling autostart for module "Apache"
+7:05:44  [main] 	Enabling autostart for module "MySQL"
+7:05:44  [main] 	Starting Check-Timer
+7:05:44  [main] 	Control Panel Ready
+7:05:44  [Apache] 	Autostart active: starting...
+7:05:44  [Apache] 	Attempting to start Apache app...
+7:05:44  [mysql] 	Autostart active: starting...
+7:05:44  [mysql] 	Attempting to start MySQL app...
+7:05:47  [mysql] 	Status change detected: running
+7:05:48  [Apache] 	Status change detected: running
+9:53:12  [main] 	Deinitializing Modules
+9:53:12  [main] 	Deinitializing Control Panel
+
+16:23:31  [main] 	Initializing Control Panel
+16:23:31  [main] 	Windows Version: Windows 8.1 Pro  64-bit
+16:23:31  [main] 	XAMPP Version: 7.0.9
+16:23:31  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+16:23:31  [main] 	You are not running with administrator rights! This will work for
+16:23:31  [main] 	most application stuff but whenever you do something with services
+16:23:31  [main] 	there will be a security dialogue or things will break! So think 
+16:23:31  [main] 	about running this application with administrator rights!
+16:23:31  [main] 	XAMPP Installation Directory: "d:\server\"
+16:23:31  [main] 	Checking for prerequisites
+16:23:36  [main] 	All prerequisites found
+16:23:36  [main] 	Initializing Modules
+16:23:36  [main] 	The FileZilla module is disabled
+16:23:36  [main] 	The Mercury module is disabled
+16:23:36  [Tomcat] 	Problem detected: Tomcat Not Found!
+16:23:36  [Tomcat] 	Disabling Tomcat buttons
+16:23:36  [Tomcat] 	Run this program from your XAMPP root directory!
+16:23:36  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+16:23:36  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+16:23:36  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+16:23:36  [main] 	Enabling autostart for module "Apache"
+16:23:36  [main] 	Enabling autostart for module "MySQL"
+16:23:36  [main] 	Starting Check-Timer
+16:23:36  [main] 	Control Panel Ready
+16:23:36  [Apache] 	Autostart active: starting...
+16:23:36  [Apache] 	Attempting to start Apache app...
+16:23:38  [mysql] 	Autostart active: starting...
+16:23:38  [mysql] 	Attempting to start MySQL app...
+16:23:42  [Apache] 	Status change detected: running
+16:23:42  [mysql] 	Status change detected: running
+16:45:21  [main] 	Deinitializing Modules
+16:45:21  [main] 	Deinitializing Control Panel
+
+10:51:32  [main] 	Initializing Control Panel
+10:51:32  [main] 	Windows Version: Windows 8.1 Pro  64-bit
+10:51:32  [main] 	XAMPP Version: 7.0.9
+10:51:32  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+10:51:32  [main] 	You are not running with administrator rights! This will work for
+10:51:32  [main] 	most application stuff but whenever you do something with services
+10:51:32  [main] 	there will be a security dialogue or things will break! So think 
+10:51:32  [main] 	about running this application with administrator rights!
+10:51:32  [main] 	XAMPP Installation Directory: "d:\server\"
+10:51:32  [main] 	Checking for prerequisites
+10:51:36  [main] 	All prerequisites found
+10:51:36  [main] 	Initializing Modules
+10:51:36  [main] 	The FileZilla module is disabled
+10:51:36  [main] 	The Mercury module is disabled
+10:51:36  [Tomcat] 	Problem detected: Tomcat Not Found!
+10:51:36  [Tomcat] 	Disabling Tomcat buttons
+10:51:36  [Tomcat] 	Run this program from your XAMPP root directory!
+10:51:36  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+10:51:36  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+10:51:36  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+10:51:36  [main] 	Enabling autostart for module "Apache"
+10:51:36  [main] 	Enabling autostart for module "MySQL"
+10:51:36  [main] 	Starting Check-Timer
+10:51:36  [main] 	Control Panel Ready
+10:51:36  [Apache] 	Autostart active: starting...
+10:51:36  [Apache] 	Attempting to start Apache app...
+10:51:36  [mysql] 	Autostart active: starting...
+10:51:36  [mysql] 	Attempting to start MySQL app...
+10:51:38  [Apache] 	Status change detected: running
+10:51:38  [mysql] 	Status change detected: running
+11:25:00  [main] 	Deinitializing Modules
+11:25:00  [main] 	Deinitializing Control Panel
+
+7:46:27 AM  [main] 	Initializing Control Panel
+7:46:27 AM  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+7:46:27 AM  [main] 	XAMPP Version: 7.0.9
+7:46:27 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+7:46:27 AM  [main] 	Running with Administrator rights - good!
+7:46:27 AM  [main] 	XAMPP Installation Directory: "c:\server\"
+7:46:27 AM  [main] 	Checking for prerequisites
+7:46:27 AM  [main] 	All prerequisites found
+7:46:27 AM  [main] 	Initializing Modules
+7:46:27 AM  [main] 	The FileZilla module is disabled
+7:46:27 AM  [main] 	The Mercury module is disabled
+7:46:27 AM  [Tomcat] 	Problem detected: Tomcat Not Found!
+7:46:27 AM  [Tomcat] 	Disabling Tomcat buttons
+7:46:27 AM  [Tomcat] 	Run this program from your XAMPP root directory!
+7:46:27 AM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+7:46:27 AM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+7:46:27 AM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+7:46:27 AM  [main] 	Enabling autostart for module "Apache"
+7:46:27 AM  [main] 	Enabling autostart for module "MySQL"
+7:46:27 AM  [main] 	Starting Check-Timer
+7:46:27 AM  [main] 	Control Panel Ready
+7:46:28 AM  [Apache] 	Autostart active: starting...
+7:46:28 AM  [Apache] 	Attempting to start Apache app...
+7:46:29 AM  [mysql] 	Autostart active: starting...
+7:46:29 AM  [mysql] 	Attempting to start MySQL app...
+7:46:36 AM  [Apache] 	Status change detected: running
+7:46:36 AM  [mysql] 	Status change detected: running
+7:54:53 AM  [Apache] 	Attempting to stop Apache (PID: 3536)
+7:54:53 AM  [Apache] 	Attempting to stop Apache (PID: 3844)
+7:54:53 AM  [Apache] 	Status change detected: stopped
+7:54:54 AM  [mysql] 	Attempting to stop MySQL app...
+7:54:56 AM  [mysql] 	Status change detected: stopped
+7:55:02 AM  [main] 	Executing "services.msc"
+7:55:10 AM  [Apache] 	Problem detected!
+7:55:10 AM  [Apache] 	Port 80 in use by "Unable to get info" with PID 3536!
+7:55:10 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+7:55:10 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+7:55:10 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+7:55:10 AM  [Apache] 	Attempting to start Apache app...
+7:55:11 AM  [Apache] 	Status change detected: running
+7:55:12 AM  [mysql] 	Attempting to start MySQL app...
+7:55:12 AM  [mysql] 	Status change detected: running
+1:28:48 PM  [Apache] 	Attempting to stop Apache (PID: 3016)
+1:28:48 PM  [Apache] 	Attempting to stop Apache (PID: 2152)
+1:28:49 PM  [Apache] 	Status change detected: stopped
+1:28:50 PM  [mysql] 	Attempting to stop MySQL app...
+1:28:52 PM  [mysql] 	Status change detected: stopped
+1:28:54 PM  [Apache] 	Problem detected!
+1:28:54 PM  [Apache] 	Port 80 in use by "Unable to get info" with PID 3016!
+1:28:54 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+1:28:54 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+1:28:54 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+1:28:54 PM  [Apache] 	Attempting to start Apache app...
+1:28:54 PM  [Apache] 	Status change detected: running
+1:28:55 PM  [mysql] 	Attempting to start MySQL app...
+1:28:55 PM  [mysql] 	Status change detected: running
+4:04:20 PM  [Apache] 	Attempting to stop Apache (PID: 3680)
+4:04:20 PM  [Apache] 	Attempting to stop Apache (PID: 3000)
+4:04:20 PM  [Apache] 	Status change detected: stopped
+4:04:21 PM  [mysql] 	Attempting to stop MySQL app...
+4:04:25 PM  [main] 	Deinitializing Modules
+4:04:25 PM  [main] 	Deinitializing Control Panel
+
+4:08:53 PM  [main] 	Initializing Control Panel
+4:08:53 PM  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+4:08:53 PM  [main] 	XAMPP Version: 7.0.9
+4:08:53 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+4:08:53 PM  [main] 	Running with Administrator rights - good!
+4:08:53 PM  [main] 	XAMPP Installation Directory: "c:\server\"
+4:08:53 PM  [main] 	Checking for prerequisites
+4:08:54 PM  [main] 	All prerequisites found
+4:08:54 PM  [main] 	Initializing Modules
+4:08:54 PM  [main] 	The FileZilla module is disabled
+4:08:54 PM  [main] 	The Mercury module is disabled
+4:08:54 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+4:08:54 PM  [Tomcat] 	Disabling Tomcat buttons
+4:08:54 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+4:08:54 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+4:08:54 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+4:08:54 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+4:08:54 PM  [main] 	Enabling autostart for module "Apache"
+4:08:54 PM  [main] 	Enabling autostart for module "MySQL"
+4:08:54 PM  [main] 	Starting Check-Timer
+4:08:54 PM  [main] 	Control Panel Ready
+4:08:54 PM  [Apache] 	Autostart active: starting...
+4:08:54 PM  [Apache] 	Attempting to start Apache app...
+4:08:54 PM  [mysql] 	Autostart active: starting...
+4:08:54 PM  [mysql] 	Attempting to start MySQL app...
+4:08:55 PM  [Apache] 	Status change detected: running
+4:08:55 PM  [mysql] 	Status change detected: running
+9:55:47 PM  [Apache] 	Status change detected: stopped
+9:55:47 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:55:47 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:55:47 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:55:47 PM  [Apache] 	Press the Logs button to view error logs and check
+9:55:47 PM  [Apache] 	the Windows Event Viewer for more clues
+9:55:47 PM  [Apache] 	If you need more help, copy and post this
+9:55:47 PM  [Apache] 	entire log window on the forums
+9:55:47 PM  [mysql] 	Status change detected: stopped
+9:55:47 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+9:55:47 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+9:55:47 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+9:55:47 PM  [mysql] 	Press the Logs button to view error logs and check
+9:55:47 PM  [mysql] 	the Windows Event Viewer for more clues
+9:55:47 PM  [mysql] 	If you need more help, copy and post this
+9:55:47 PM  [mysql] 	entire log window on the forums
+9:55:52 PM  [Apache] 	Status change detected: running
+9:55:55 PM  [mysql] 	Status change detected: running
+9:55:59 PM  [mysql] 	Status change detected: stopped
+9:55:59 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+9:55:59 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+9:55:59 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+9:55:59 PM  [mysql] 	Press the Logs button to view error logs and check
+9:55:59 PM  [mysql] 	the Windows Event Viewer for more clues
+9:55:59 PM  [mysql] 	If you need more help, copy and post this
+9:55:59 PM  [mysql] 	entire log window on the forums
+9:56:04 PM  [mysql] 	Status change detected: running
+9:56:15 PM  [mysql] 	Status change detected: stopped
+9:56:15 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+9:56:15 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+9:56:15 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+9:56:15 PM  [mysql] 	Press the Logs button to view error logs and check
+9:56:15 PM  [mysql] 	the Windows Event Viewer for more clues
+9:56:15 PM  [mysql] 	If you need more help, copy and post this
+9:56:15 PM  [mysql] 	entire log window on the forums
+9:56:17 PM  [Apache] 	Status change detected: stopped
+9:56:17 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:56:17 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:56:17 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:56:17 PM  [Apache] 	Press the Logs button to view error logs and check
+9:56:17 PM  [Apache] 	the Windows Event Viewer for more clues
+9:56:17 PM  [Apache] 	If you need more help, copy and post this
+9:56:17 PM  [Apache] 	entire log window on the forums
+9:59:28 PM  [main] 	Deinitializing Modules
+9:59:28 PM  [main] 	Deinitializing Control Panel
+
+9:55:42 PM  [main] 	Initializing Control Panel
+9:55:42 PM  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+9:55:42 PM  [main] 	XAMPP Version: 7.0.9
+9:55:42 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+9:55:42 PM  [main] 	Running with Administrator rights - good!
+9:55:42 PM  [main] 	XAMPP Installation Directory: "c:\server\"
+9:55:42 PM  [main] 	Checking for prerequisites
+9:55:42 PM  [main] 	All prerequisites found
+9:55:42 PM  [main] 	Initializing Modules
+9:55:42 PM  [Apache] 	XAMPP Apache is already running on port 80
+9:55:42 PM  [Apache] 	XAMPP Apache is already running on port 443
+9:55:42 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+9:55:42 PM  [main] 	The FileZilla module is disabled
+9:55:42 PM  [main] 	The Mercury module is disabled
+9:55:42 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+9:55:42 PM  [Tomcat] 	Disabling Tomcat buttons
+9:55:42 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+9:55:42 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+9:55:42 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+9:55:42 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+9:55:42 PM  [main] 	Enabling autostart for module "Apache"
+9:55:42 PM  [main] 	Enabling autostart for module "MySQL"
+9:55:42 PM  [main] 	Starting Check-Timer
+9:55:42 PM  [main] 	Control Panel Ready
+9:55:43 PM  [Apache] 	Autostart aborted: Apache is already running
+9:55:43 PM  [mysql] 	Autostart aborted: MySQL is already running
+9:55:45 PM  [mysql] 	Attempting to stop MySQL app...
+9:55:47 PM  [Apache] 	Attempting to stop Apache (PID: 3224)
+9:55:47 PM  [Apache] 	Attempting to stop Apache (PID: 4076)
+9:55:47 PM  [Apache] 	Attempting to stop Apache (PID: 3224)
+9:55:47 PM  [Apache] 	Problem killing PID 3224
+9:55:47 PM  [Apache] 	Check that you have the proper privileges
+9:55:47 PM  [Apache] 	Attempting to stop Apache (PID: 4076)
+9:55:47 PM  [Apache] 	Problem killing PID 4076
+9:55:47 PM  [Apache] 	Check that you have the proper privileges
+9:55:47 PM  [Apache] 	Status change detected: stopped
+9:55:47 PM  [mysql] 	Status change detected: stopped
+9:55:51 PM  [Apache] 	Attempting to start Apache app...
+9:55:51 PM  [Apache] 	Attempting to start Apache app...
+9:55:52 PM  [Apache] 	Status change detected: running
+9:55:55 PM  [mysql] 	Attempting to start MySQL app...
+9:55:55 PM  [mysql] 	Status change detected: running
+9:55:55 PM  [mysql] 	Attempting to stop MySQL app...
+9:55:59 PM  [mysql] 	Status change detected: stopped
+9:56:04 PM  [mysql] 	Attempting to start MySQL app...
+9:56:04 PM  [mysql] 	Status change detected: running
+9:56:11 PM  [mysql] 	Attempting to stop MySQL app...
+9:56:11 PM  [mysql] 	Attempting to stop MySQL app...
+9:56:14 PM  [mysql] 	Status change detected: stopped
+9:56:17 PM  [Apache] 	Attempting to stop Apache (PID: 7280)
+9:56:17 PM  [Apache] 	Attempting to stop Apache (PID: 4524)
+9:56:17 PM  [Apache] 	Status change detected: stopped
+9:59:30 PM  [main] 	Deinitializing Modules
+9:59:30 PM  [main] 	Deinitializing Control Panel
+
+10:08:54 PM  [main] 	Initializing Control Panel
+10:08:54 PM  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+10:08:54 PM  [main] 	XAMPP Version: 7.0.9
+10:08:54 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+10:08:54 PM  [main] 	Running with Administrator rights - good!
+10:08:54 PM  [main] 	XAMPP Installation Directory: "c:\server\"
+10:08:54 PM  [main] 	Checking for prerequisites
+10:08:54 PM  [main] 	All prerequisites found
+10:08:54 PM  [main] 	Initializing Modules
+10:08:54 PM  [main] 	The FileZilla module is disabled
+10:08:54 PM  [main] 	The Mercury module is disabled
+10:08:54 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+10:08:54 PM  [Tomcat] 	Disabling Tomcat buttons
+10:08:54 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+10:08:54 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+10:08:54 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+10:08:54 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+10:08:54 PM  [main] 	Enabling autostart for module "Apache"
+10:08:54 PM  [main] 	Enabling autostart for module "MySQL"
+10:08:54 PM  [main] 	Starting Check-Timer
+10:08:54 PM  [main] 	Control Panel Ready
+10:08:54 PM  [Apache] 	Autostart active: starting...
+10:08:54 PM  [Apache] 	Attempting to start Apache app...
+10:08:54 PM  [mysql] 	Autostart active: starting...
+10:08:54 PM  [mysql] 	Attempting to start MySQL app...
+10:08:55 PM  [Apache] 	Status change detected: running
+10:08:55 PM  [mysql] 	Status change detected: running
+10:09:12 PM  [main] 	Executing "services.msc"
+10:09:49 PM  [Apache] 	Attempting to stop Apache (PID: 1336)
+10:09:49 PM  [Apache] 	Attempting to stop Apache (PID: 800)
+10:09:49 PM  [Apache] 	Attempting to stop Apache (PID: 1336)
+10:09:49 PM  [Apache] 	Problem killing PID 1336
+10:09:49 PM  [Apache] 	Check that you have the proper privileges
+10:09:49 PM  [Apache] 	Attempting to stop Apache (PID: 800)
+10:09:49 PM  [Apache] 	Problem killing PID 800
+10:09:49 PM  [Apache] 	Check that you have the proper privileges
+10:09:49 PM  [Apache] 	Status change detected: stopped
+10:09:54 PM  [Apache] 	Attempting to start Apache app...
+10:09:55 PM  [Apache] 	Status change detected: running
+8:08:48 PM  [Apache] 	Attempting to stop Apache (PID: 8152)
+8:08:48 PM  [Apache] 	Attempting to stop Apache (PID: 7948)
+8:08:48 PM  [Apache] 	Status change detected: stopped
+8:08:52 PM  [Apache] 	Attempting to start Apache app...
+8:08:53 PM  [Apache] 	Status change detected: running
+3:28:08 PM  [Apache] 	Attempting to stop Apache (PID: 8016)
+3:28:08 PM  [Apache] 	Attempting to stop Apache (PID: 7188)
+3:28:08 PM  [Apache] 	Status change detected: stopped
+3:28:10 PM  [mysql] 	Attempting to stop MySQL app...
+3:28:11 PM  [mysql] 	Status change detected: stopped
+3:28:13 PM  [main] 	Deinitializing Modules
+3:28:13 PM  [main] 	Deinitializing Control Panel
+
+3:33:32 PM  [main] 	Initializing Control Panel
+3:33:32 PM  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+3:33:32 PM  [main] 	XAMPP Version: 7.0.9
+3:33:32 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+3:33:32 PM  [main] 	Running with Administrator rights - good!
+3:33:32 PM  [main] 	XAMPP Installation Directory: "c:\server\"
+3:33:32 PM  [main] 	Checking for prerequisites
+3:33:33 PM  [main] 	All prerequisites found
+3:33:33 PM  [main] 	Initializing Modules
+3:33:33 PM  [main] 	The FileZilla module is disabled
+3:33:33 PM  [main] 	The Mercury module is disabled
+3:33:33 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+3:33:33 PM  [Tomcat] 	Disabling Tomcat buttons
+3:33:33 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+3:33:33 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+3:33:33 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+3:33:33 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+3:33:33 PM  [main] 	Enabling autostart for module "Apache"
+3:33:33 PM  [main] 	Enabling autostart for module "MySQL"
+3:33:33 PM  [main] 	Starting Check-Timer
+3:33:33 PM  [main] 	Control Panel Ready
+3:33:33 PM  [Apache] 	Autostart active: starting...
+3:33:33 PM  [Apache] 	Attempting to start Apache app...
+3:33:33 PM  [mysql] 	Autostart active: starting...
+3:33:33 PM  [mysql] 	Attempting to start MySQL app...
+3:33:34 PM  [Apache] 	Status change detected: running
+3:33:34 PM  [mysql] 	Status change detected: running
+11:49:09 PM  [main] 	Deinitializing Modules
+11:49:09 PM  [main] 	Deinitializing Control Panel
+
+9:37:35 PM  [main] 	Initializing Control Panel
+9:37:35 PM  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+9:37:35 PM  [main] 	XAMPP Version: 7.0.9
+9:37:35 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+9:37:35 PM  [main] 	Running with Administrator rights - good!
+9:37:35 PM  [main] 	XAMPP Installation Directory: "c:\server\"
+9:37:35 PM  [main] 	Checking for prerequisites
+9:37:35 PM  [main] 	All prerequisites found
+9:37:35 PM  [main] 	Initializing Modules
+9:37:35 PM  [Apache] 	Problem detected!
+9:37:35 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+9:37:35 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:37:35 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:37:35 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:37:35 PM  [mysql] 	Problem detected!
+9:37:35 PM  [mysql] 	Port 3306 in use by "c:\server1\mysql\bin\mysqld.exe"!
+9:37:35 PM  [mysql] 	MySQL WILL NOT start without the configured ports free!
+9:37:35 PM  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+9:37:35 PM  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+9:37:35 PM  [main] 	The FileZilla module is disabled
+9:37:35 PM  [main] 	The Mercury module is disabled
+9:37:35 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+9:37:35 PM  [Tomcat] 	Disabling Tomcat buttons
+9:37:35 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+9:37:35 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+9:37:35 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+9:37:35 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+9:37:35 PM  [main] 	Enabling autostart for module "Apache"
+9:37:35 PM  [main] 	Enabling autostart for module "MySQL"
+9:37:35 PM  [main] 	Starting Check-Timer
+9:37:35 PM  [main] 	Control Panel Ready
+9:37:36 PM  [Apache] 	Autostart active: starting...
+9:37:36 PM  [Apache] 	Problem detected!
+9:37:36 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+9:37:36 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:37:36 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:37:36 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:37:36 PM  [Apache] 	Attempting to start Apache app...
+9:37:36 PM  [mysql] 	Autostart active: starting...
+9:37:36 PM  [mysql] 	Problem detected!
+9:37:36 PM  [mysql] 	Port 3306 in use by "c:\server1\mysql\bin\mysqld.exe"!
+9:37:36 PM  [mysql] 	MySQL WILL NOT start without the configured ports free!
+9:37:36 PM  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+9:37:36 PM  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+9:37:36 PM  [mysql] 	Attempting to start MySQL app...
+9:37:36 PM  [Apache] 	Status change detected: running
+9:37:36 PM  [mysql] 	Status change detected: running
+9:37:38 PM  [Apache] 	Status change detected: stopped
+9:37:38 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:37:38 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:37:38 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:37:38 PM  [Apache] 	Press the Logs button to view error logs and check
+9:37:38 PM  [Apache] 	the Windows Event Viewer for more clues
+9:37:38 PM  [Apache] 	If you need more help, copy and post this
+9:37:38 PM  [Apache] 	entire log window on the forums
+9:37:43 PM  [mysql] 	Status change detected: stopped
+9:37:43 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+9:37:43 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+9:37:43 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+9:37:43 PM  [mysql] 	Press the Logs button to view error logs and check
+9:37:43 PM  [mysql] 	the Windows Event Viewer for more clues
+9:37:43 PM  [mysql] 	If you need more help, copy and post this
+9:37:43 PM  [mysql] 	entire log window on the forums
+9:37:45 PM  [Apache] 	Problem detected!
+9:37:45 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+9:37:45 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:37:45 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:37:45 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:37:45 PM  [Apache] 	Attempting to start Apache app...
+9:37:46 PM  [Apache] 	Status change detected: running
+9:37:47 PM  [Apache] 	Status change detected: stopped
+9:37:47 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:37:47 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:37:47 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:37:47 PM  [Apache] 	Press the Logs button to view error logs and check
+9:37:47 PM  [Apache] 	the Windows Event Viewer for more clues
+9:37:47 PM  [Apache] 	If you need more help, copy and post this
+9:37:47 PM  [Apache] 	entire log window on the forums
+9:37:48 PM  [mysql] 	Problem detected!
+9:37:48 PM  [mysql] 	Port 3306 in use by "c:\server1\mysql\bin\mysqld.exe"!
+9:37:48 PM  [mysql] 	MySQL WILL NOT start without the configured ports free!
+9:37:48 PM  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+9:37:48 PM  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+9:37:48 PM  [mysql] 	Attempting to start MySQL app...
+9:37:48 PM  [mysql] 	Status change detected: running
+9:37:54 PM  [mysql] 	Status change detected: stopped
+9:37:54 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+9:37:54 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+9:37:54 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+9:37:54 PM  [mysql] 	Press the Logs button to view error logs and check
+9:37:54 PM  [mysql] 	the Windows Event Viewer for more clues
+9:37:54 PM  [mysql] 	If you need more help, copy and post this
+9:37:54 PM  [mysql] 	entire log window on the forums
+9:38:05 PM  [main] 	Deinitializing Modules
+9:38:05 PM  [main] 	Deinitializing Control Panel
+
+11:23:36 PM  [main] 	Initializing Control Panel
+11:23:36 PM  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+11:23:36 PM  [main] 	XAMPP Version: 7.0.9
+11:23:36 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:23:36 PM  [main] 	Running with Administrator rights - good!
+11:23:36 PM  [main] 	XAMPP Installation Directory: "c:\server\"
+11:23:36 PM  [main] 	Checking for prerequisites
+11:23:38 PM  [main] 	All prerequisites found
+11:23:38 PM  [main] 	Initializing Modules
+11:23:38 PM  [Apache] 	Problem detected!
+11:23:38 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+11:23:38 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:23:38 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:23:38 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:23:38 PM  [main] 	The FileZilla module is disabled
+11:23:38 PM  [main] 	The Mercury module is disabled
+11:23:38 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+11:23:38 PM  [Tomcat] 	Disabling Tomcat buttons
+11:23:38 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+11:23:38 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+11:23:38 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+11:23:38 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+11:23:38 PM  [main] 	Enabling autostart for module "Apache"
+11:23:38 PM  [main] 	Enabling autostart for module "MySQL"
+11:23:38 PM  [main] 	Starting Check-Timer
+11:23:38 PM  [main] 	Control Panel Ready
+11:23:39 PM  [Apache] 	Autostart active: starting...
+11:23:39 PM  [Apache] 	Problem detected!
+11:23:39 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+11:23:39 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:23:39 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:23:39 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:23:39 PM  [Apache] 	Attempting to start Apache app...
+11:23:39 PM  [mysql] 	Autostart active: starting...
+11:23:39 PM  [mysql] 	Attempting to start MySQL app...
+11:23:39 PM  [Apache] 	Status change detected: running
+11:23:39 PM  [mysql] 	Status change detected: running
+11:23:42 PM  [Apache] 	Status change detected: stopped
+11:23:42 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+11:23:42 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:23:42 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:23:42 PM  [Apache] 	Press the Logs button to view error logs and check
+11:23:42 PM  [Apache] 	the Windows Event Viewer for more clues
+11:23:42 PM  [Apache] 	If you need more help, copy and post this
+11:23:42 PM  [Apache] 	entire log window on the forums
+11:26:18 PM  [Apache] 	Problem detected!
+11:26:18 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+11:26:18 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:26:18 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:26:18 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:26:18 PM  [Apache] 	Attempting to start Apache app...
+11:26:18 PM  [Apache] 	Status change detected: running
+11:26:19 PM  [Apache] 	Status change detected: stopped
+11:26:19 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+11:26:19 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:26:19 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:26:19 PM  [Apache] 	Press the Logs button to view error logs and check
+11:26:19 PM  [Apache] 	the Windows Event Viewer for more clues
+11:26:19 PM  [Apache] 	If you need more help, copy and post this
+11:26:19 PM  [Apache] 	entire log window on the forums
+11:26:36 PM  [Apache] 	Problem detected!
+11:26:36 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+11:26:36 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:26:36 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:26:36 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:26:36 PM  [Apache] 	Attempting to start Apache app...
+11:26:37 PM  [Apache] 	Status change detected: running
+11:28:26 PM  [Apache] 	Attempting to stop Apache (PID: 436)
+11:28:26 PM  [Apache] 	Attempting to stop Apache (PID: 3476)
+11:28:26 PM  [Apache] 	Status change detected: stopped
+11:28:27 PM  [Apache] 	Problem detected!
+11:28:27 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+11:28:27 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:28:27 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:28:27 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:28:27 PM  [Apache] 	Attempting to start Apache app...
+11:28:27 PM  [Apache] 	Status change detected: running
+11:28:28 PM  [Apache] 	Status change detected: stopped
+11:28:28 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+11:28:28 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:28:28 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:28:28 PM  [Apache] 	Press the Logs button to view error logs and check
+11:28:28 PM  [Apache] 	the Windows Event Viewer for more clues
+11:28:28 PM  [Apache] 	If you need more help, copy and post this
+11:28:28 PM  [Apache] 	entire log window on the forums
+11:28:30 PM  [Apache] 	Problem detected!
+11:28:30 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+11:28:30 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:28:30 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:28:30 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:28:30 PM  [Apache] 	Attempting to start Apache app...
+11:28:30 PM  [Apache] 	Status change detected: running
+11:28:31 PM  [Apache] 	Status change detected: stopped
+11:28:31 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+11:28:31 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:28:31 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:28:31 PM  [Apache] 	Press the Logs button to view error logs and check
+11:28:31 PM  [Apache] 	the Windows Event Viewer for more clues
+11:28:31 PM  [Apache] 	If you need more help, copy and post this
+11:28:31 PM  [Apache] 	entire log window on the forums
+11:30:42 PM  [mysql] 	Status change detected: stopped
+11:30:42 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:30:42 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:30:42 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:30:42 PM  [mysql] 	Press the Logs button to view error logs and check
+11:30:42 PM  [mysql] 	the Windows Event Viewer for more clues
+11:30:42 PM  [mysql] 	If you need more help, copy and post this
+11:30:42 PM  [mysql] 	entire log window on the forums
+11:30:43 PM  [main] 	Deinitializing Modules
+11:30:43 PM  [main] 	Deinitializing Control Panel
+
+11:33:20 PM  [main] 	Initializing Control Panel
+11:33:20 PM  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+11:33:20 PM  [main] 	XAMPP Version: 7.0.9
+11:33:20 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:33:20 PM  [main] 	Running with Administrator rights - good!
+11:33:20 PM  [main] 	XAMPP Installation Directory: "c:\server\"
+11:33:20 PM  [main] 	Checking for prerequisites
+11:33:30 PM  [main] 	All prerequisites found
+11:33:30 PM  [main] 	Initializing Modules
+11:33:30 PM  [main] 	The FileZilla module is disabled
+11:33:30 PM  [main] 	The Mercury module is disabled
+11:33:30 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+11:33:30 PM  [Tomcat] 	Disabling Tomcat buttons
+11:33:30 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+11:33:30 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+11:33:30 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+11:33:30 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+11:33:30 PM  [main] 	Enabling autostart for module "Apache"
+11:33:30 PM  [main] 	Enabling autostart for module "MySQL"
+11:33:30 PM  [main] 	Starting Check-Timer
+11:33:30 PM  [main] 	Control Panel Ready
+11:33:31 PM  [Apache] 	Autostart active: starting...
+11:33:31 PM  [Apache] 	Attempting to start Apache app...
+11:33:31 PM  [mysql] 	Autostart active: starting...
+11:33:31 PM  [mysql] 	Attempting to start MySQL app...
+11:33:31 PM  [Apache] 	Status change detected: running
+11:33:31 PM  [mysql] 	Status change detected: running
+1:02:09 AM  [main] 	Deinitializing Modules
+1:02:09 AM  [main] 	Deinitializing Control Panel
+
+7:35:19 AM  [main] 	Initializing Control Panel
+7:35:19 AM  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+7:35:19 AM  [main] 	XAMPP Version: 7.0.9
+7:35:19 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+7:35:19 AM  [main] 	Running with Administrator rights - good!
+7:35:19 AM  [main] 	XAMPP Installation Directory: "c:\server\"
+7:35:19 AM  [main] 	Checking for prerequisites
+7:35:21 AM  [main] 	All prerequisites found
+7:35:21 AM  [main] 	Initializing Modules
+7:35:21 AM  [main] 	The FileZilla module is disabled
+7:35:21 AM  [main] 	The Mercury module is disabled
+7:35:21 AM  [Tomcat] 	Problem detected: Tomcat Not Found!
+7:35:21 AM  [Tomcat] 	Disabling Tomcat buttons
+7:35:21 AM  [Tomcat] 	Run this program from your XAMPP root directory!
+7:35:21 AM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+7:35:21 AM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+7:35:21 AM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+7:35:21 AM  [main] 	Enabling autostart for module "Apache"
+7:35:21 AM  [main] 	Enabling autostart for module "MySQL"
+7:35:21 AM  [main] 	Starting Check-Timer
+7:35:21 AM  [main] 	Control Panel Ready
+7:35:22 AM  [Apache] 	Autostart active: starting...
+7:35:22 AM  [Apache] 	Attempting to start Apache app...
+7:35:22 AM  [mysql] 	Autostart active: starting...
+7:35:22 AM  [mysql] 	Attempting to start MySQL app...
+7:35:22 AM  [Apache] 	Status change detected: running
+7:35:22 AM  [mysql] 	Status change detected: running
+7:41:28 AM  [mysql] 	Status change detected: stopped
+7:41:28 AM  [mysql] 	Error: MySQL shutdown unexpectedly.
+7:41:28 AM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+7:41:28 AM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+7:41:28 AM  [mysql] 	Press the Logs button to view error logs and check
+7:41:28 AM  [mysql] 	the Windows Event Viewer for more clues
+7:41:28 AM  [mysql] 	If you need more help, copy and post this
+7:41:28 AM  [mysql] 	entire log window on the forums
+7:41:28 AM  [main] 	Deinitializing Modules
+7:41:28 AM  [main] 	Deinitializing Control Panel
+
+8:10:03 AM  [main] 	Initializing Control Panel
+8:10:03 AM  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+8:10:03 AM  [main] 	XAMPP Version: 7.0.9
+8:10:03 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+8:10:03 AM  [main] 	Running with Administrator rights - good!
+8:10:03 AM  [main] 	XAMPP Installation Directory: "c:\server\"
+8:10:03 AM  [main] 	Checking for prerequisites
+8:10:12 AM  [main] 	All prerequisites found
+8:10:12 AM  [main] 	Initializing Modules
+8:10:12 AM  [main] 	The FileZilla module is disabled
+8:10:12 AM  [main] 	The Mercury module is disabled
+8:10:12 AM  [Tomcat] 	Problem detected: Tomcat Not Found!
+8:10:12 AM  [Tomcat] 	Disabling Tomcat buttons
+8:10:12 AM  [Tomcat] 	Run this program from your XAMPP root directory!
+8:10:12 AM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+8:10:12 AM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+8:10:12 AM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+8:10:12 AM  [main] 	Enabling autostart for module "Apache"
+8:10:12 AM  [main] 	Enabling autostart for module "MySQL"
+8:10:12 AM  [main] 	Starting Check-Timer
+8:10:12 AM  [main] 	Control Panel Ready
+8:10:13 AM  [Apache] 	Autostart active: starting...
+8:10:13 AM  [Apache] 	Attempting to start Apache app...
+8:10:13 AM  [mysql] 	Autostart active: starting...
+8:10:13 AM  [mysql] 	Attempting to start MySQL app...
+8:10:13 AM  [Apache] 	Status change detected: running
+8:10:13 AM  [mysql] 	Status change detected: running
+9:08:49 AM  [main] 	Deinitializing Modules
+9:08:49 AM  [main] 	Deinitializing Control Panel
+
+10:14:04 AM  [main] 	Initializing Control Panel
+10:14:04 AM  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+10:14:04 AM  [main] 	XAMPP Version: 7.0.9
+10:14:04 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+10:14:04 AM  [main] 	Running with Administrator rights - good!
+10:14:04 AM  [main] 	XAMPP Installation Directory: "c:\server\"
+10:14:04 AM  [main] 	Checking for prerequisites
+10:14:06 AM  [main] 	All prerequisites found
+10:14:06 AM  [main] 	Initializing Modules
+10:14:06 AM  [main] 	The FileZilla module is disabled
+10:14:06 AM  [main] 	The Mercury module is disabled
+10:14:06 AM  [Tomcat] 	Problem detected: Tomcat Not Found!
+10:14:06 AM  [Tomcat] 	Disabling Tomcat buttons
+10:14:06 AM  [Tomcat] 	Run this program from your XAMPP root directory!
+10:14:06 AM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+10:14:06 AM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+10:14:06 AM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+10:14:06 AM  [main] 	Enabling autostart for module "Apache"
+10:14:06 AM  [main] 	Enabling autostart for module "MySQL"
+10:14:06 AM  [main] 	Starting Check-Timer
+10:14:06 AM  [main] 	Control Panel Ready
+10:14:07 AM  [Apache] 	Autostart active: starting...
+10:14:07 AM  [Apache] 	Attempting to start Apache app...
+10:14:07 AM  [mysql] 	Autostart active: starting...
+10:14:07 AM  [mysql] 	Attempting to start MySQL app...
+10:14:07 AM  [Apache] 	Status change detected: running
+10:14:07 AM  [mysql] 	Status change detected: running
+11:11:31 AM  [main] 	Deinitializing Modules
+11:11:31 AM  [main] 	Deinitializing Control Panel
+
+10:38:44  [main] 	Initializing Control Panel
+10:38:44  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+10:38:44  [main] 	XAMPP Version: 7.0.9
+10:38:44  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+10:38:44  [main] 	Running with Administrator rights - good!
+10:38:44  [main] 	XAMPP Installation Directory: "c:\server\"
+10:38:44  [main] 	Checking for prerequisites
+10:38:49  [main] 	All prerequisites found
+10:38:49  [main] 	Initializing Modules
+10:38:49  [main] 	The FileZilla module is disabled
+10:38:49  [main] 	The Mercury module is disabled
+10:38:49  [Tomcat] 	Problem detected: Tomcat Not Found!
+10:38:49  [Tomcat] 	Disabling Tomcat buttons
+10:38:49  [Tomcat] 	Run this program from your XAMPP root directory!
+10:38:49  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+10:38:49  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+10:38:49  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+10:38:49  [main] 	Enabling autostart for module "Apache"
+10:38:49  [main] 	Enabling autostart for module "MySQL"
+10:38:49  [main] 	Starting Check-Timer
+10:38:49  [main] 	Control Panel Ready
+10:38:50  [Apache] 	Autostart active: starting...
+10:38:50  [Apache] 	Attempting to start Apache app...
+10:38:50  [mysql] 	Autostart active: starting...
+10:38:50  [mysql] 	Attempting to start MySQL app...
+10:38:50  [Apache] 	Status change detected: running
+10:38:50  [mysql] 	Status change detected: running
+10:38:52  [main] 	Deinitializing Modules
+10:38:52  [main] 	Deinitializing Control Panel
+
+09:30:50  [main] 	Initializing Control Panel
+09:30:50  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+09:30:50  [main] 	XAMPP Version: 7.0.9
+09:30:50  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:30:50  [main] 	Running with Administrator rights - good!
+09:30:50  [main] 	XAMPP Installation Directory: "c:\server\"
+09:30:50  [main] 	Checking for prerequisites
+09:30:50  [main] 	All prerequisites found
+09:30:50  [main] 	Initializing Modules
+09:30:50  [Apache] 	XAMPP Apache is already running on port 80
+09:30:50  [Apache] 	XAMPP Apache is already running on port 443
+09:30:50  [mysql] 	XAMPP MySQL is already running on port 3306
+09:30:50  [main] 	The FileZilla module is disabled
+09:30:50  [main] 	The Mercury module is disabled
+09:30:50  [Tomcat] 	Problem detected: Tomcat Not Found!
+09:30:50  [Tomcat] 	Disabling Tomcat buttons
+09:30:50  [Tomcat] 	Run this program from your XAMPP root directory!
+09:30:50  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+09:30:50  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+09:30:50  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+09:30:50  [main] 	Enabling autostart for module "Apache"
+09:30:50  [main] 	Enabling autostart for module "MySQL"
+09:30:50  [main] 	Starting Check-Timer
+09:30:50  [main] 	Control Panel Ready
+09:30:51  [Apache] 	Autostart aborted: Apache is already running
+09:30:51  [mysql] 	Autostart aborted: MySQL is already running
+01:20:56  [Apache] 	Status change detected: stopped
+01:20:56  [Apache] 	Error: Apache shutdown unexpectedly.
+01:20:56  [Apache] 	This may be due to a blocked port, missing dependencies, 
+01:20:56  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+01:20:56  [Apache] 	Press the Logs button to view error logs and check
+01:20:56  [Apache] 	the Windows Event Viewer for more clues
+01:20:56  [Apache] 	If you need more help, copy and post this
+01:20:56  [Apache] 	entire log window on the forums
+01:20:56  [mysql] 	Status change detected: stopped
+01:20:56  [mysql] 	Error: MySQL shutdown unexpectedly.
+01:20:56  [mysql] 	This may be due to a blocked port, missing dependencies, 
+01:20:56  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+01:20:56  [mysql] 	Press the Logs button to view error logs and check
+01:20:56  [mysql] 	the Windows Event Viewer for more clues
+01:20:56  [mysql] 	If you need more help, copy and post this
+01:20:56  [mysql] 	entire log window on the forums
+01:21:16  [main] 	Deinitializing Modules
+01:21:16  [main] 	Deinitializing Control Panel
+
+10:38:40  [main] 	Initializing Control Panel
+10:38:40  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+10:38:40  [main] 	XAMPP Version: 7.0.9
+10:38:40  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+10:38:40  [main] 	Running with Administrator rights - good!
+10:38:40  [main] 	XAMPP Installation Directory: "c:\server\"
+10:38:40  [main] 	Checking for prerequisites
+10:38:49  [main] 	All prerequisites found
+10:38:49  [main] 	Initializing Modules
+10:38:49  [main] 	The FileZilla module is disabled
+10:38:49  [main] 	The Mercury module is disabled
+10:38:49  [Tomcat] 	Problem detected: Tomcat Not Found!
+10:38:49  [Tomcat] 	Disabling Tomcat buttons
+10:38:49  [Tomcat] 	Run this program from your XAMPP root directory!
+10:38:49  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+10:38:49  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+10:38:49  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+10:38:49  [main] 	Enabling autostart for module "Apache"
+10:38:49  [main] 	Enabling autostart for module "MySQL"
+10:38:49  [main] 	Starting Check-Timer
+10:38:49  [main] 	Control Panel Ready
+10:38:50  [Apache] 	Autostart active: starting...
+10:38:50  [Apache] 	Attempting to start Apache app...
+10:38:50  [mysql] 	Autostart active: starting...
+10:38:50  [mysql] 	Attempting to start MySQL app...
+10:38:50  [Apache] 	Status change detected: running
+10:38:50  [mysql] 	Status change detected: running
+09:20:13  [Apache] 	Attempting to stop Apache (PID: 3012)
+09:20:13  [Apache] 	Attempting to stop Apache (PID: 2236)
+09:20:14  [Apache] 	Status change detected: stopped
+09:20:15  [mysql] 	Attempting to stop MySQL app...
+09:20:17  [mysql] 	Status change detected: stopped
+09:20:18  [Apache] 	Attempting to start Apache app...
+09:20:18  [Apache] 	Status change detected: running
+09:20:19  [mysql] 	Attempting to start MySQL app...
+09:20:20  [mysql] 	Status change detected: running
+01:20:53  [mysql] 	Attempting to stop MySQL app...
+01:20:55  [Apache] 	Attempting to stop Apache (PID: 3252)
+01:20:55  [Apache] 	Attempting to stop Apache (PID: 428)
+01:20:56  [Apache] 	Status change detected: stopped
+01:20:56  [mysql] 	Status change detected: stopped
+01:21:23  [main] 	Deinitializing Modules
+01:21:23  [main] 	Deinitializing Control Panel
+
+01:56:47  [main] 	Initializing Control Panel
+01:56:47  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+01:56:47  [main] 	XAMPP Version: 7.0.9
+01:56:47  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+01:56:47  [main] 	Running with Administrator rights - good!
+01:56:47  [main] 	XAMPP Installation Directory: "c:\server\"
+01:56:47  [main] 	Checking for prerequisites
+01:56:47  [main] 	All prerequisites found
+01:56:47  [main] 	Initializing Modules
+01:56:47  [main] 	The FileZilla module is disabled
+01:56:47  [main] 	The Mercury module is disabled
+01:56:47  [Tomcat] 	Problem detected: Tomcat Not Found!
+01:56:47  [Tomcat] 	Disabling Tomcat buttons
+01:56:47  [Tomcat] 	Run this program from your XAMPP root directory!
+01:56:47  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+01:56:47  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+01:56:47  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+01:56:47  [main] 	Enabling autostart for module "Apache"
+01:56:47  [main] 	Enabling autostart for module "MySQL"
+01:56:47  [main] 	Starting Check-Timer
+01:56:47  [main] 	Control Panel Ready
+01:56:48  [Apache] 	Autostart active: starting...
+01:56:48  [Apache] 	Attempting to start Apache app...
+01:56:48  [mysql] 	Autostart active: starting...
+01:56:48  [mysql] 	Attempting to start MySQL app...
+01:56:48  [Apache] 	Status change detected: running
+01:56:48  [mysql] 	Status change detected: running
+10:16:55  [main] 	Deinitializing Modules
+10:16:55  [main] 	Deinitializing Control Panel
+
+11:07:53  [main] 	Initializing Control Panel
+11:07:53  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+11:07:53  [main] 	XAMPP Version: 7.0.9
+11:07:53  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:07:53  [main] 	Running with Administrator rights - good!
+11:07:53  [main] 	XAMPP Installation Directory: "c:\server\"
+11:07:53  [main] 	Checking for prerequisites
+11:07:56  [main] 	All prerequisites found
+11:07:56  [main] 	Initializing Modules
+11:07:56  [main] 	The FileZilla module is disabled
+11:07:56  [main] 	The Mercury module is disabled
+11:07:56  [Tomcat] 	Problem detected: Tomcat Not Found!
+11:07:56  [Tomcat] 	Disabling Tomcat buttons
+11:07:56  [Tomcat] 	Run this program from your XAMPP root directory!
+11:07:56  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+11:07:56  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+11:07:56  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+11:07:56  [main] 	Enabling autostart for module "Apache"
+11:07:56  [main] 	Enabling autostart for module "MySQL"
+11:07:56  [main] 	Starting Check-Timer
+11:07:56  [main] 	Control Panel Ready
+11:07:56  [Apache] 	Autostart active: starting...
+11:07:56  [Apache] 	Attempting to start Apache app...
+11:07:56  [mysql] 	Autostart active: starting...
+11:07:56  [mysql] 	Attempting to start MySQL app...
+11:07:57  [Apache] 	Status change detected: running
+11:07:57  [mysql] 	Status change detected: running
+11:28:40  [Apache] 	Attempting to stop Apache (PID: 3788)
+11:28:40  [Apache] 	Attempting to stop Apache (PID: 284)
+11:28:40  [Apache] 	Status change detected: stopped
+11:28:41  [mysql] 	Attempting to stop MySQL app...
+11:28:43  [mysql] 	Status change detected: stopped
+11:28:54  [main] 	Deinitializing Modules
+11:28:54  [main] 	Deinitializing Control Panel
+
+11:52:20  [main] 	Initializing Control Panel
+11:52:20  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+11:52:20  [main] 	XAMPP Version: 7.0.9
+11:52:20  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:52:20  [main] 	Running with Administrator rights - good!
+11:52:20  [main] 	XAMPP Installation Directory: "c:\server\"
+11:52:20  [main] 	Checking for prerequisites
+11:52:20  [main] 	All prerequisites found
+11:52:20  [main] 	Initializing Modules
+11:52:20  [main] 	The FileZilla module is disabled
+11:52:20  [main] 	The Mercury module is disabled
+11:52:20  [Tomcat] 	Problem detected: Tomcat Not Found!
+11:52:20  [Tomcat] 	Disabling Tomcat buttons
+11:52:20  [Tomcat] 	Run this program from your XAMPP root directory!
+11:52:20  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+11:52:20  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+11:52:20  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+11:52:20  [main] 	Enabling autostart for module "Apache"
+11:52:20  [main] 	Enabling autostart for module "MySQL"
+11:52:20  [main] 	Starting Check-Timer
+11:52:20  [main] 	Control Panel Ready
+11:52:21  [Apache] 	Autostart active: starting...
+11:52:21  [Apache] 	Attempting to start Apache app...
+11:52:21  [mysql] 	Autostart active: starting...
+11:52:21  [mysql] 	Attempting to start MySQL app...
+11:52:21  [Apache] 	Status change detected: running
+11:52:21  [mysql] 	Status change detected: running
+11:52:22  [Apache] 	Attempting to stop Apache (PID: 3376)
+11:52:22  [Apache] 	Status change detected: stopped
+11:52:23  [Apache] 	Attempting to start Apache app...
+11:52:24  [Apache] 	Status change detected: running
+11:01:19  [main] 	Deinitializing Modules
+11:01:19  [main] 	Deinitializing Control Panel
+
+17:16:52  [main] 	Initializing Control Panel
+17:16:52  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+17:16:52  [main] 	XAMPP Version: 7.0.9
+17:16:52  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+17:16:52  [main] 	Running with Administrator rights - good!
+17:16:52  [main] 	XAMPP Installation Directory: "c:\server\"
+17:16:52  [main] 	Checking for prerequisites
+17:16:55  [main] 	All prerequisites found
+17:16:55  [main] 	Initializing Modules
+17:16:55  [main] 	The FileZilla module is disabled
+17:16:55  [main] 	The Mercury module is disabled
+17:16:55  [Tomcat] 	Problem detected: Tomcat Not Found!
+17:16:55  [Tomcat] 	Disabling Tomcat buttons
+17:16:55  [Tomcat] 	Run this program from your XAMPP root directory!
+17:16:55  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+17:16:55  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+17:16:55  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+17:16:55  [main] 	Enabling autostart for module "Apache"
+17:16:55  [main] 	Enabling autostart for module "MySQL"
+17:16:55  [main] 	Starting Check-Timer
+17:16:55  [main] 	Control Panel Ready
+17:16:55  [Apache] 	Autostart active: starting...
+17:16:55  [Apache] 	Attempting to start Apache app...
+17:16:55  [mysql] 	Autostart active: starting...
+17:16:55  [mysql] 	Attempting to start MySQL app...
+17:16:56  [Apache] 	Status change detected: running
+17:16:56  [mysql] 	Status change detected: running
+18:06:12  [Apache] 	Attempting to stop Apache (PID: 1540)
+18:06:12  [Apache] 	Attempting to stop Apache (PID: 2380)
+18:06:12  [Apache] 	Status change detected: stopped
+18:06:12  [mysql] 	Attempting to stop MySQL app...
+18:06:15  [mysql] 	Status change detected: stopped
+18:07:06  [Apache] 	Attempting to start Apache app...
+18:07:06  [Apache] 	Status change detected: running
+18:07:07  [mysql] 	Attempting to start MySQL app...
+18:07:07  [mysql] 	Status change detected: running
+18:07:27  [Apache] 	Attempting to stop Apache (PID: 3444)
+18:07:27  [Apache] 	Attempting to stop Apache (PID: 3140)
+18:07:27  [Apache] 	Status change detected: stopped
+18:07:27  [Apache] 	Attempting to start Apache app...
+18:07:28  [Apache] 	Status change detected: running
+18:07:29  [mysql] 	Attempting to stop MySQL app...
+18:07:31  [mysql] 	Attempting to stop MySQL app...
+18:07:33  [mysql] 	Status change detected: stopped
+18:07:34  [mysql] 	Attempting to start MySQL app...
+18:07:35  [mysql] 	Status change detected: running
+18:08:48  [Apache] 	Attempting to stop Apache (PID: 1808)
+18:08:48  [Apache] 	Attempting to stop Apache (PID: 2604)
+18:08:48  [Apache] 	Status change detected: stopped
+18:08:49  [Apache] 	Attempting to start Apache app...
+18:08:49  [Apache] 	Status change detected: running
+23:03:37  [main] 	Deinitializing Modules
+23:03:37  [main] 	Deinitializing Control Panel
+
+23:02:22  [main] 	Initializing Control Panel
+23:02:22  [main] 	Windows Version: Windows Server 2008 R2 SP1 64-bit
+23:02:22  [main] 	XAMPP Version: 7.0.9
+23:02:22  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+23:02:22  [main] 	Running with Administrator rights - good!
+23:02:22  [main] 	XAMPP Installation Directory: "c:\server\"
+23:02:22  [main] 	Checking for prerequisites
+23:02:44  [main] 	All prerequisites found
+23:02:44  [main] 	Initializing Modules
+23:02:44  [main] 	The FileZilla module is disabled
+23:02:44  [main] 	The Mercury module is disabled
+23:02:44  [Tomcat] 	Problem detected: Tomcat Not Found!
+23:02:44  [Tomcat] 	Disabling Tomcat buttons
+23:02:44  [Tomcat] 	Run this program from your XAMPP root directory!
+23:02:44  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+23:02:44  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+23:02:44  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+23:02:44  [main] 	Enabling autostart for module "Apache"
+23:02:44  [main] 	Enabling autostart for module "MySQL"
+23:02:44  [main] 	Starting Check-Timer
+23:02:44  [main] 	Control Panel Ready
+23:02:45  [Apache] 	Autostart active: starting...
+23:02:45  [Apache] 	Attempting to start Apache app...
+23:02:45  [mysql] 	Autostart active: starting...
+23:02:45  [mysql] 	Attempting to start MySQL app...
+23:02:45  [Apache] 	Status change detected: running
+23:02:45  [mysql] 	Status change detected: running
+16:53:58  [Apache] 	Attempting to stop Apache (PID: 2976)
+16:53:58  [Apache] 	Attempting to stop Apache (PID: 2896)
+16:53:59  [Apache] 	Status change detected: stopped
+16:54:01  [mysql] 	Attempting to stop MySQL app...
+16:54:04  [mysql] 	Status change detected: stopped
+16:59:22  [main] 	Deinitializing Modules
+16:59:22  [main] 	Deinitializing Control Panel
+
